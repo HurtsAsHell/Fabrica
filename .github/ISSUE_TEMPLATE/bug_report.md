@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create an issue to help us fix bugs in the mod
+about: Create an issue to help us fix bugs in the modpack
 title: ''
 labels: needs verification, bug
 assignees: ''

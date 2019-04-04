@@ -1,0 +1,14 @@
+﻿Version : 0.0.2
+* Added Roost, Default World Generator (Port) ;
+* Removed xRay ;
+* Decreased the output crafting of synthetic leather ;
+* Increased and changed the crafting of pollution pipe ;
+* Decreased the energy required by the Excavator ;
+* Increased the pollution production and removed the dust (I HATE IT) ;
+* Added Morpheus to server pack ;
+* Updated some mod ;
+* Added custom crafting of Ethanol from the honey drop ;
+* Added some quest, use the command /bq_admin default load DefaultQuests ;
+* Modified Big Reactor Crafting [ I need to modify turbine crafting ] ;
+* Increased spawn rate of Deep Iron Ore
+* Sets the default world gen with Default World Generator (Port)

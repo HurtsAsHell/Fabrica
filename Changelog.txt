@@ -1,4 +1,8 @@
-﻿Version : 0.0.2
+﻿                        -- WARNING --
+In the previus version you could start, or have started, a world without the Biomes o Planty but you need some ore to craft some item, if you don’t do that, give that ore
+            ( or suggest me on how to solve this problem )
+
+    Version : 0.0.2
 * Added Roost, Default World Generator (Port) ;
 * Removed xRay ;
 * Decreased the output crafting of synthetic leather ;
@@ -12,3 +16,53 @@
 * Modified Big Reactor Crafting [ I need to modify turbine crafting ] ;
 * Increased spawn rate of Deep Iron Ore
 * Sets the default world gen with Default World Generator (Port)
+
+    Version : 0.0.3
+* Updated Mekanism ( DON’T CREATE THE THERMAL EVAPORATION TOWER )
+* Updated Forge
+* Added/Removed bioreactor crafting and biofuel recipes ( thanks to TheElderMage2017 )
+* Added quests to Mekanism section
+* Fixed Ingooooooot Quest
+* Added crafting to Itemduct
+* Modified some recipes
+* Added crafting to Ethanol
+* Added Crafting for mutagen
+* Pack name changed
+
+    Version : 0.0.4
+* Update Mekanism
+* Added Dynamic Trees BOP
+* Fixed Quest Silver
+* Wheat to seed crafting
+* Removed some chickens
+* Added some quest ( /bq_admin default load DefaultQuests )
+* Modified some recipes
+
+    Version : 0.0.5
+* Updated Metallurgy
+* Removed mana steel scop crafting
+* Added Career Bees mod
+* Modified crafting of lapidary augmentation
+* Modified the crafting of mutatron with Advanced Mutatron
+* Modified crafting of Diamond Anvil (Cyclic)
+* Incremented the Max Pollution of filter
+* Added some quest to the questbook
+* Fixed the Server problem
+* Fixed Cinnabar chicken bug
+* Added crafting to diamon chicken
+* Added some crafting
+* Removed some crafting
+
+        Version : 0.0.6
+* Modified the crafting of pollution filter ( Now the capacity is increased )
+* Removed generation of Sulfur pollution in the nether
+* Removed crafting of Immersive E. Steel pickaxe
+* Increased the mb of mutagen created from the Yellorium
+* Modified drop of iron chicken ( now drop nugget )
+* Added a method to clear the bee sample
+* Increased the wither Healt
+* Added TCompendium ( Modified crafting )
+* Removed Diamond/Emeral chicken because i can’t modified the drop with modded drop
+* The BoP chicken spawn in the overworld
+* Added FancyBlockParticles
+* Added autooredictconv
